@@ -1,0 +1,5 @@
+@layer utilities {
+  /* .table :where(th, td) {
+    @apply border border-gray-400;
+  } */
+}
